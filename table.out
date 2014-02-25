@@ -1,0 +1,7 @@
++----------+---------+----------+
+| Name     | Class   | Beverage |
++----------+---------+----------+
+| Yak      | Warrior | Milk     |
+| Galstaff | Warlock | Coffee   |
+| Ogg      | Mage    | Water    |
++----------+---------+----------+
